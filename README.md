@@ -1,2 +1,2 @@
 # covid_tweets_MW
-scrapped some covid tweets from some cities in Malawi
+Extracted some covid tweets from some cities in Malawi
