@@ -14,3 +14,5 @@ Polarity is split to Positive, neutral and negative which will help us to draw a
 
 ### Subjectivity
 Subjectivity is split to whether a tweet is a fact or an opinion which will help us know if People know covid facts or just assumptions(i.e. covid facts might mean adherence to health advice on covid). The analysis will be displayed in python visuals (Pie-charts).
+
+
