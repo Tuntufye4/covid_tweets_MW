@@ -4,7 +4,7 @@
 The aim of this task is to extract covid tweets from Malawi’s main cities and get insight from the data.
 
 ## Justification
-Twitter data is analysed to recognize People’s views on covid issues. 
+Twitter data is analysed to get People’s views on covid issues. 
 
 ## Methodology
 The tweets were extracted by specifying a particular hashtag and location (Malawian cities, within a certain radius) and then saved to a csv file. The sentiment analysis part was based on Polarity and Subjectivity. 
